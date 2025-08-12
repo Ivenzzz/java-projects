@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradebook">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/students-gradebook/Gradebook.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
